@@ -1,0 +1,14 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test src/tests/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
